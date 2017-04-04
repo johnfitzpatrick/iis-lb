@@ -8,6 +8,6 @@ version '0.2.4'
 
 supports 'windows'
 
-depends 'webpi'
+depends 'webpi', '= 3.0.0'
 depends 'iis'
 depends 'compat_resource'
